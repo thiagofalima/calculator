@@ -32,7 +32,7 @@ const App = () => {
     }
   }
 
-  const handleMinusNumbers = () => {
+  const handleSubtractNumbers = () => {
     if (firstNumber === '0') {
       setFirstNumber(String(currentNumber));
       setCurrentNumber('0');
@@ -83,7 +83,7 @@ const App = () => {
           handleSumNumbers();
           break;
         case '-':
-          handleMinusNumbers();
+          handleSubtractNumbers();
           break;
         case 'x':
           handleMultiplysNumbers();
@@ -115,7 +115,7 @@ const App = () => {
           <Button label="7" onClick={() => handleAddNunber('7')} />
           <Button label="8" onClick={() => handleAddNunber('8')} />
           <Button label="9" onClick={() => handleAddNunber('9')} />
-          <Button label="-" onClick={handleMinusNumbers} />
+          <Button label="-" onClick={handleSubtractNumbers} />
         </Row>
 
         <Row>
