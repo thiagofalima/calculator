@@ -1,70 +1,120 @@
-# Getting Started with Create React App
+PT-BR
+# ⚛️ Calculadora Simples com React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</div>
 
-## Available Scripts
+## 📄 Sobre o Projeto
 
-In the project directory, you can run:
+Este projeto é uma calculadora básica desenvolvida com **React**, com foco na prática dos conceitos fundamentais da biblioteca e na criação de uma interface de usuário funcional. Para a estilização, foi utilizado o **Styled Components**, garantindo a escrita de CSS de forma modular e organizada.
 
-### `npm start`
+## ✨ Funcionalidades
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+A calculadora possui as seguintes operações:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Soma (`+`)
+- Subtração (`-`)
+- Multiplicação (`*`)
+- Divisão (`/`)
+- Porcentagem (`%`)
+- Limpar a tela (`C`)
 
-### `npm test`
+## 🛠️ Tecnologias Utilizadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React:** Biblioteca JavaScript para construir interfaces de usuário.
+- **Styled Components:** Para a estilização dos componentes de forma dinâmica e encapsulada.
+- **JavaScript (ES6+):** Linguagem de programação.
+- **CSS:** Para estilização e layout da interface.
 
-### `npm run build`
+## 🚀 Como Executar o Projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Siga os passos abaixo para rodar o projeto em seu ambiente local:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1.  Clone este repositório:
+    ```bash
+    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2.  Navegue até a pasta do projeto:
+    ```bash
+    cd seu-repositorio
+    ```
 
-### `npm run eject`
+3.  Instale as dependências:
+    ```bash
+    npm install
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4.  Inicie a aplicação:
+    ```bash
+    npm start
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+A aplicação estará disponível em `http://localhost:3000`.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# EN-US
 
-## Learn More
+# ⚛️ Simple React Calculator
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</div>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📄 About the Project
 
-### Code Splitting
+This project is a basic calculator built with **React**, focusing on practicing the fundamental concepts of the library and creating a functional user interface. For styling, **Styled Components** was used to write CSS in a modular and organized way.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## ✨ Features
 
-### Analyzing the Bundle Size
+The calculator supports the following operations:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Addition (`+`)
+- Subtraction (`-`)
+- Multiplication (`*`)
+- Division (`/`)
+- Percentage (`%`)
+- Clear screen (`C`)
 
-### Making a Progressive Web App
+## 🛠️ Technologies Used
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- **React:** A JavaScript library for building user interfaces.
+- **Styled Components:** For dynamic and encapsulated styling of components.
+- **JavaScript (ES6+):** The core programming language.
+- **CSS:** For styling and layout.
 
-### Advanced Configuration
+## 🚀 How to Run the Project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Follow these steps to get the project up and running on your local machine:
 
-### Deployment
+1.  Clone this repository:
+    ```bash
+    git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
+    ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+2.  Navigate to the project directory:
+    ```bash
+    cd your-repository
+    ```
 
-### `npm run build` fails to minify
+3.  Install the dependencies:
+    ```bash
+    npm install
+    ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+4.  Start the application:
+    ```bash
+    npm start
+    ```
+
+The application will be available at `http://localhost:3000`.
+
+---
